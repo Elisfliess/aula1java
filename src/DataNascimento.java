@@ -4,7 +4,7 @@ public class DataNascimento {
         int anoAtual = 2022;
         int resultado = anoAtual - dataNascimento;
 
-        System.out.println("A pessoa tem ou vai completar" + resultado + "anos");
+        System.out.println(" A pessoa tem ou vai completar" + resultado + " anos");
 
     }
 }
